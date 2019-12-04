@@ -22,4 +22,9 @@ body,
   top: 5px;
   left: 5px;
 }
+
+
+.cesium-widget, .cesium-widget canvas {
+    height: 100vh !important;
+}
 </style>
