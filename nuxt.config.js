@@ -25,11 +25,11 @@ export default {
       {
         rel: "stylesheet",
         href:
-          "/widgets.css"
+          "https://cesium.com/downloads/cesiumjs/releases/1.54/Build/Cesium/Widgets/widgets.css"
       }
     ],
     script: [
-      { src: "/Cesium.js" }
+      { src: "https://cesium.com/downloads/cesiumjs/releases/1.54/Build/Cesium/Cesium.js" }
     ]
   },
 
